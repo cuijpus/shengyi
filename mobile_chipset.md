@@ -42,3 +42,5 @@ GPS导航接收器
 
 # 手机tear down
 [Apple iPhone Xs Max Teardown ](https://www.techinsights.com/about-techinsights/overview/blog/apple-iphone-xs-teardown/)<br>
+[Apple iPhone Xs Max Teardown2](https://technology.ihs.com/606680/iphone-xs-max-costs-apple-20-more-in-materials-than-last-years-smaller-iphone-x-ihs-markit-teardown-reveals)<BR>
+[iPhone XS Max 清单BOM表曝光](http://www.eefocus.com/consumer-electronics/m/422044)<BR>
