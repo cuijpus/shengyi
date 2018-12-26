@@ -38,3 +38,7 @@ GPS导航接收器
 无线WIFI芯片
 
 集成电路管理芯片
+
+
+# 手机tear down
+[Apple iPhone Xs Max Teardown ](https://www.techinsights.com/about-techinsights/overview/blog/apple-iphone-xs-teardown/)<br>
